@@ -1,0 +1,132 @@
+<resources>
+    <string name="app_name">The Evolution of Modern Sports</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="sports_description_paragraph_1">Sports are a fundamental and universal expression of human physical and mental prowess. They encompass an extensive array of activities and games, from the solo artistry of a gymnast to the collective harmony of a soccer team. Sports offer a unique blend of competition, camaraderie, and personal growth. They push athletes to their limits, both physically and mentally, fostering qualities like discipline, perseverance, and resilience. Beyond their athletic aspect, sports serve as a powerful medium for cultural exchange, uniting people worldwide through shared enthusiasm and respect. Iconic events like the Olympics and the World Cup embody this global unity, celebrating the diverse tapestry of humanity\'s athletic achievements.</string>
+    <string name="sports_description_paragraph_2">Whether in the pursuit of individual excellence or as part of a team, sports provide a stage for passion, dedication, and self-discovery. They have a remarkable ability to instill values such as sportsmanship, fair play, and the importance of setting and striving for goals. From the grassroots level, where children learn the basics, to the grand stages of professional competitions, sports leave an indelible mark on society. Furthermore, the fusion of sports and technology continues to reshape the landscape, enhancing athlete performance, fan engagement, and the overall sporting experience. As we celebrate the physical and emotional dimensions of sports, they remain a powerful force in our lives, serving as a reminder of the enduring significance of competition, community, and the pursuit of excellence.</string>
+
+    <string-array name="firstpage">
+        <item>About Sports</item>
+        <item>Milestones</item>
+        <item>Sports Categories</item>
+    </string-array>
+
+    <string-array name="milestones">
+        <item>Ancient Origins</item>
+        <item>Industrialization and Urbanization</item>
+        <item>Codification and Standardization</item>
+        <item>Mass Media</item>
+        <item>Globalization</item>
+        <item>Professionalization</item>
+        <item>Technological Advancements</item>
+        <item>Inclusivity and Diversity</item>
+        <item>Fan Engagement</item>
+        <item>Sports Science</item>
+        <item>Athlete Activism</item>
+        <item>Esports</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Early forms of sports practiced by ancient civilizations.</item>
+        <item>Increased leisure time and the shift to urban lifestyles.</item>
+        <item>Establishment of rules and regulations for various sports.</item>
+        <item>The role of newspapers, radio, and television in promoting sports.</item>
+        <item>The spread of sports on a global scale, with international competitions.</item>
+        <item>Transition from amateur to professional athletes, growth of pro leagues.</item>
+        <item>Impact of technology on equipment, training, and analytics.</item>
+        <item>Emphasis on breaking barriers based on gender, race, and disabilities.</item>
+        <item>The changing relationship between fans and sports through technology.</item>
+        <item>Advances in the understanding of human performance and injury prevention.</item>
+        <item>Athletes advocating for social and political causes.</item>
+        <item>The rise of esports and competitive video gaming.</item>
+    </string-array>
+
+    <string-array name="categories_sports">
+        <item>Team Sports</item>
+        <item>Individual Sports</item>
+        <item>Combat Sports</item>
+        <item>Racing Sports</item>
+        <item>Target Sports</item>
+    </string-array>
+
+    <string-array name="team_sports">
+        <item>1. Soccer (Football)</item>
+        <item>2. Basketball</item>
+        <item>3. American Football</item>
+        <item>4. Volleyball</item>
+    </string-array>
+
+    <string-array name="team_sports_definitions">
+        <item>A team sport played between two teams with the objective of scoring goals by getting a ball into the opposing team\'s goal.</item>
+        <item>A fast-paced game played between two teams, with the goal of scoring points by shooting a ball through the opposing team\'s hoop.</item>
+        <item>A high-contact sport where two teams compete to carry or pass an oval-shaped ball across the opposing team\'s goal line.</item>
+        <item>A game played with two teams separated by a net, where the objective is to score points by sending the ball over the net into the opponent\'s court.</item>
+    </string-array>
+
+    <!-- Individual Sports -->
+    <string-array name="individual_sports">
+        <item>1. Tennis</item>
+        <item>2. Golf</item>
+        <item>3. Athletics (Track and Field)</item>
+        <item>4. Swimming</item>
+    </string-array>
+
+    <string-array name="individual_sports_definitions">
+        <item>A racquet sport played between two players (singles) or two pairs (doubles), with the aim of hitting the ball into the opponent\'s court to score points.</item>
+        <item>A precision sport where players use clubs to hit a ball into a series of holes on a course with the fewest strokes possible.</item>
+        <item>A collection of sports that includes running, jumping, and throwing events, with athletes competing individually or as teams.</item>
+        <item>A sport in which individuals or teams compete to swim the fastest in various swimming strokes and distances.</item>
+    </string-array>
+
+    <!-- Combat Sports -->
+    <string-array name="combat_sports">
+        <item>1. Boxing</item>
+        <item>2. Mixed Martial Arts (MMA)</item>
+        <item>3. Judo</item>
+        <item>4. Wrestling (Greco-Roman and Freestyle)</item>
+    </string-array>
+
+    <string-array name="combat_sports_definitions">
+        <item>A combat sport where two participants fight in a ring and attempt to land punches on each other, aiming to score points or achieve a knockout.</item>
+        <item>A full-contact combat sport that combines various fighting disciplines, including striking and grappling techniques.</item>
+        <item>A martial art and Olympic sport in which competitors aim to throw or pin their opponent to the ground.</item>
+        <item>Sports involving grappling, throws, and holds with the objective of pinning the opponent\'s shoulders to the mat.</item>
+    </string-array>
+
+    <!-- Racing Sports -->
+    <string-array name="racing_sports">
+        <item>1. Formula 1 Racing</item>
+        <item>2. Cycling (Road)</item>
+        <item>3. Horse Racing</item>
+        <item>4. Marathon and Road Running</item>
+    </string-array>
+
+    <string-array name="racing_sports_definitions">
+        <item>A high-speed motorsport where drivers race in open-wheel cars on circuits in pursuit of the World Drivers\' Championship.</item>
+        <item>A sport involving bicycle races on roads or courses, including events like the Tour de France.</item>
+        <item>A sport where horses race over a set distance, with jockeys riding them in various types of races.</item>
+        <item>Long-distance running events, such as marathons, half-marathons, and road races on established routes.</item>
+    </string-array>
+
+    <!-- Target Sports -->
+    <string-array name="target_sports">
+        <item>1. Archery</item>
+        <item>2. Shooting (Rifle)</item>
+        <item>3. Darts</item>
+        <item>4. Billiards and Snooker</item>
+    </string-array>
+
+    <string-array name="target_sports_definitions">
+        <item>A precision sport where archers shoot arrows at a target from a set distance to score points.</item>
+        <item>Sport shooting disciplines using rifles to aim at targets, with an emphasis on precision and accuracy.</item>
+        <item>A precision sport in which players throw small, pointed missiles (darts) at a circular target to score points.</item>
+        <item>Cue sports played on a rectangular table, involving striking balls into pockets or specific areas on the table.</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
